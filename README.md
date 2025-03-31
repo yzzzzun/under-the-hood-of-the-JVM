@@ -5,3 +5,7 @@
 <a href="https://github.com/T-U-E/under-the-hood-of-the-JVM/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=T-U-E/under-the-hood-of-the-JVM" />
 </a>
+
+
+## 💰 벌금
+- 안읽어오면 벌금 10000원
